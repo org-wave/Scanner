@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scanner domain="br.com.company" project="project">
+	<structure type="FLOW">
+		<package>br.com.company.project.flows</package>
+		<package>br.com.company.project.fluxos</package>
+	</structure>
+	
+	<structure type="REPORT">
+		<package>br.com.company.project.reports</package>
+		<package>br.com.company.project.relatorios</package>
+	</structure>
+	
+	<structure type="TASK">
+		<package>br.com.company.project.tasks</package>
+		<package>br.com.company.project.tarefas</package>
+	</structure>
+	
+	<structure>
+		<package>br.com.company.project.others</package>
+		<package>br.com.company.project.outros</package>
+	</structure>
+</scanner>
